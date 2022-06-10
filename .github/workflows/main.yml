@@ -1,4 +1,4 @@
-name: AWS Cloud9 Python 3.8
+name: AWS Python 3.8
 on: [push]
 jobs:
   build:
